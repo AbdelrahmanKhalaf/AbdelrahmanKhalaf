@@ -3,7 +3,7 @@
 <h3 align="center">CyberX</h3>
 <!--   <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/9a/a7/f1/9aa7f1b40efdf7f13f3a2e603898a44c.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanKhalaf&label=Profile%20views&color=d126ff&style=flat" alt="AbdelrahmanKhalaf" /> 1000</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanKhalaf&label=Profile%20views&color=d126ff&style=flat" alt="AbdelrahmanKhalaf" /> </p>
 
 - ⚡ Fun fact *My brain is built different*
 <h3 align="left">Connect with me:</h3>
